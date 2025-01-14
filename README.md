@@ -4,4 +4,3 @@
 <h3>2023 Report</h3>
 <!-- Image for the total data of 2023 -->
 <img src="https://wakatime.com/wrapped/2023/4c900281-8ffe-48f1-8d2d-281cea099539/f49125458beaff8d56cdd8bba52b7dfb9d79af80.png" alt="Wakatime Report 2023">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ye1047/662adb1b-6847-4b10-998e-8f9faa8e2800.png" /></a>
